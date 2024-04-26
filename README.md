@@ -1,9 +1,9 @@
-# Emotion Detection from Tweets - CS577 Homework 1
+# Emotion Detection from Tweets
 
 ## Overview
 This repository contains the implementation of a logistic regression 
 classifier and a multi-layer neural network to detect emotions from 
-Tweets. This homework is part of CS577 at Purdue University, focusing on 
+Tweets. This homework is part of the NLP course, focusing on 
 building these models **from scratch** without using built-in functions from 
 libraries like sklearn for the machine learning part.
 
